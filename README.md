@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Hi there 👋, I'm Guan Quan</h2>
 
 <!--
 **guanquann/guanquann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h4>I'm a Software Engineer, Data Science & Open Source Enthusiast.</h4>
+
+<h4>Y1 NUS Business Analytics</h4>
+
+<h4><a href="https://www.linkedin.com/in/guan-quan-tan-7328ba226/" target="_blank">Linkedin</a></h4>
+
+<h4><a href="mailto:emailstocksera@gmail.com" target="_blank">Email</a></h4>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guanquann&label=Profile%20views&color=0e75b6&style=flat" alt="maze508" /> </p>
