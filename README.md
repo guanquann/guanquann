@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>I'm a Software Engineer, Data Science & Open Source Enthusiast.</h4>
+<h4>I'm a Software Engineer, Data Scientist & Open Source Contributor.</h4>
 
-<h4>Y1 NUS Business Analytics</h4>
+<h4>Y1 NUS Business Analytics.</h4>
 
 <h4><a href="https://www.linkedin.com/in/guan-quan-tan-7328ba226/" target="_blank">Linkedin</a></h4>
 
