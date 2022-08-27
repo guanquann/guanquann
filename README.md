@@ -15,12 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4>I'm a Software Engineer, Data Scientist & Open Source Contributor.</h4>
+<p>I'm a Software Engineer, Data Scientist & active Open Source Contributor currently studying in NUS Business Analytics.</p>
 
-<h4>Y1 NUS Business Analytics.</h4>
+<p>Feel free to message me for collaboration!</p>
 
-<h4><a href="https://www.linkedin.com/in/guan-quan-tan-7328ba226/" target="_blank">Linkedin</a></h4>
+<ul>
+  <li><p><a href="https://guanquann.github.io/" target="_blank">Personal Website</a></p></li>
+  <li><p><a href="https://www.linkedin.com/in/guan-quan-tan-7328ba226/" target="_blank">Linkedin</a></p></li>
+  <li><p><a href="mailto:emailstocksera@gmail.com" target="_blank">Email</a></p></li>
+</ul>
 
-<h4><a href="mailto:emailstocksera@gmail.com" target="_blank">Email</a></h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guanquann&label=Profile%20views&color=0e75b6&style=flat" alt="guanquann" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guanquann&label=Profile%20views&color=0e75b6&style=flat" alt="maze508" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanquann&layout=compact)](https://github.com/guanquann/github-readme-stats)
+
+![Guan Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanquann&show_icons=true)
