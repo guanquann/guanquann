@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm a Software Engineer, Data Scientist & active Open Source Contributor currently studying in NUS Business Analytics.</p>
+<p>💬 I'm a Software Engineer, Data Scientist & active Open Source Contributor currently studying in NUS Business Analytics.</p>
 
-<p>Feel free to message me for collaboration!</p>
+<p>📫 Feel free to message me for collaboration!</p>
 
 <ul>
   <li><p><a href="https://guanquann.github.io/" target="_blank">Personal Website</a></p></li>
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 ![Page Count](https://komarev.com/ghpvc/?username=guanquann&style=for-the-badge)
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=guanquann&layout=compact)](https://github.com/guanquann/github-readme-stats)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=guanquann&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guanquann&show_icons=true)
