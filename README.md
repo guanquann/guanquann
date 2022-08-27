@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <li><p><a href="mailto:emailstocksera@gmail.com" target="_blank">Email</a></p></li>
 </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guanquann&label=Profile%20views&color=0e75b6&style=flat" alt="guanquann" /> </p>
+![Page Count](https://komarev.com/ghpvc/?username=guanquann&style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanquann&layout=compact)](https://github.com/guanquann/github-readme-stats)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=guanquann&layout=compact)](https://github.com/guanquann/github-readme-stats)
 
-![Guan Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=guanquann&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guanquann&show_icons=true)
