@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>📫 Feel free to message me for collaboration!</p>
 
 <ul>
-  <li><p><a href="https://guanquann.github.io/" target="_blank">Personal Website</a></p></li>
+  <li><p><a href="https://guanquan.vercel.app/" target="_blank">Personal Website</a></p></li>
   <li><p><a href="https://www.linkedin.com/in/guan-quan-tan-7328ba226/" target="_blank">Linkedin</a></p></li>
   <li><p><a href="mailto:emailstocksera@gmail.com" target="_blank">Email</a></p></li>
 </ul>
