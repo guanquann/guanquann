@@ -5,7 +5,7 @@
 <p>I'm Guan Quan, currently studying in NUS Business Analytics. Feel free to message me for collaboration!</p>
 
 <ul>
-  <li><p><a href="https://guanquan.vercel.app/" target="_blank">Personal Website</a></p></li>
+  <li><p><a href="https://guanquan.vercel.app/" target="_blank">Website</a></p></li>
   <li><p><a href="https://www.linkedin.com/in/guan-quan-tan-7328ba226/" target="_blank">Linkedin</a></p></li>
   <li><p><a href="mailto:guanquantan5@gmail.com" target="_blank">Email</a></p></li>
   <li><p><a href="https://devpost.com/guanquann/" target="_blank">DevPost</a></p></li>
@@ -15,6 +15,7 @@
 
 <span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="45px" alt="python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45px" alt="java" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45px" alt="javascript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45px" alt="r" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" width="45px" alt="ruby" />
